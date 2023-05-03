@@ -2,6 +2,13 @@ h1{
     color: white;
 }
 
+p{
+    color: white;
+}
+
+.text-align{
+    text-align: center;
+}
 .start{
     background-color: #2c3e50;
     height: 100px;
