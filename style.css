@@ -37,3 +37,48 @@
 .my_empty{
     height: 36px;
 }
+
+.my_Nested-col-1{
+    flex-basis: calc((100% / 12) * 1);
+    max-width: calc((100% / 12) * 1);
+}
+.my_Nested-col-2{
+    flex-basis: calc((100% / 12) * 2);
+    max-width: calc((100% / 12) * 2);
+}
+.my_Nested-col-3{
+    flex-basis: calc((100% / 12) * 3);
+    max-width: calc((100% / 12) * 3);
+}
+.my_Nested-col-4{
+    flex-basis: calc((100% / 12) * 4);
+    max-width: calc((100% / 12) * 4);
+}
+.my_Nested-col-5{
+    flex-basis: calc((100% / 12) * 5);
+    max-width: calc((100% / 12) * 5);
+}
+.my_Nested-col-6{
+    flex-basis: calc((100% / 12) * 6);
+    max-width: calc((100% / 12) * 6);
+}
+.my_Nested-col-7{
+    flex-basis: calc((100% / 12) * 7);
+    max-width: calc((100% / 12) * 7);
+}
+.my_Nested-col-8{
+    flex-basis: calc((100% / 12) * 8);
+    max-width: calc((100% / 12) * 8);
+}
+.my_Nested-col-9{
+    flex-basis: calc((100% / 12) * 9);
+    max-width: calc((100% / 12) * 9);
+}
+.my_Nested-col-10{
+    flex-basis: calc((100% / 12) * 10);
+    max-width: calc((100% / 12) * 10);
+}
+.my_Nested-col-11{
+    flex-basis: calc((100% / 12) * 11);
+    max-width: calc((100% / 12) * 11);
+}
