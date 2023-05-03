@@ -1,35 +1,39 @@
-.green{
+.my_green{
     background-color: #1abc9c;
 }
 
-.brown{
+.my_brown{
     background-color: #ba4b63;
 }
 
-.turquoise{
+.my_turquoise{
     background-color:#1ea4b6;
 }
 
-.black{
+.my_black{
     background-color: #140f0f;
 }
 
-.lightblue{
+.my_lightblue{
     background-color: #1c83c1;
 }
 
-.blue{
+.my_blue{
     background-color: #0e38b5;
 }
 
-.beige{
+.my_beige{
     background-color: #ccb2a3;
 }
 
-.grey{
+.my_grey{
     background-color: #3a546d;
 }
 
-.darkblue{
+.my_darkblue{
     background-color:  #2c3e50;
+}
+
+.my_empty{
+    height: 36px;
 }
