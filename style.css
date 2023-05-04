@@ -4,7 +4,10 @@ h3,
 h4{
     color: white;
 }
-
+.my_line-white{
+    border: 5px solid white;
+    border-radius: 5px;
+}
 .my_h1-black{
     color: black;
 }
