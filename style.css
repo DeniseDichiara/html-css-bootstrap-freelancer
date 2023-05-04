@@ -9,10 +9,21 @@ ul{
     list-style-type: none;
     color: white;
 }
+
+.not-my_avatar{
+    width: 40%;
+}
+
 .my_line-white{
-    border: 5px solid white;
+    border: 3px solid white;
     border-radius: 5px;
 }
+
+.my_line-black{
+    border: 3px solid black;
+    border-radius: 5px;
+}
+
 .my_h1-black{
     color: black;
 }
