@@ -1,8 +1,15 @@
-h1{
+h1,
+h2,
+h3,
+h4{
     color: white;
 }
 
-p{
+.my_h1-black{
+    color: black;
+}
+
+.my_p-white{
     color: white;
 }
 
@@ -14,8 +21,9 @@ p{
     height: 100px;
 }
 
-.cake{
-    margin-left: 1rem;
+.my_wrap{
+    width: 65%;
+    margin: 0 auto;
 }
 
 .small-square{
